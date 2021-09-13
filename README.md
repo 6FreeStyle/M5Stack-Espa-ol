@@ -12,4 +12,3 @@ https://github.com/m5stack
 * Driver 
 * M5Burner https://static-cdn.m5stack.com/resource/software/M5Burner.zip aplicación oficial para actualizar el firmware.
 * UIFlow https://static-cdn.m5stack.com/resource/software/UIFlow-Desktop-IDE.zip aplicación oficial para desarrollo con bloques y traducción a python.
-* M5Burner https://static-cdn.m5stack.com/resource/software/M5Burner.zip aplicación oficial para actualizar el firmware.
