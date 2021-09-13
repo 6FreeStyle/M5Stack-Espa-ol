@@ -1,6 +1,8 @@
-# M5Stack-Español Repositorio del grupo de telegram https://t.me/M5StackEsp
+# M5Stack-Español 
 
-##Introducción 
+Repositorio del grupo de telegram https://t.me/M5StackEsp
+
+## Introducción 
 
 M5Stack es una empresa con sede en china que fabrica placas de desarrollo y sensores. Los porductos más importantes fabricados por esta empresa son las placas de desarollo M5Core, acualtmente el producto más avanzado es el M5Core 2. Su coste actual está entre unos 45 y 50€.
 
