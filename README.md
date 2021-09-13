@@ -45,17 +45,22 @@ La placa de desarollo M5Stack Core 2 soporta varios lenguajes de programación e
 * https://github.com/m5stack/M5Stack_MicroPython
 
 
+## ¿Cómo empezar?
 
+Para comenzar a desarrollar con esta placa de desarrollo es necesario seguir una serie de pasos en orden.
+
+* El primer paso sería instalar los driver del dispositivo.
+* El segundo paso sería elegir el lenguaje de programación que queremos utilizar para nuestro proyecto.
+* Instalar el entorno de desarollo
 
 ## Repositorios oficiales en github de M5Stack 
-
-https://github.com/m5stack
+* https://github.com/m5stack
 * https://github.com/m5stack/M5Core2
 
 
 ## Software Oficial
-
 * Driver 
 * M5Burner https://static-cdn.m5stack.com/resource/software/M5Burner.zip aplicación oficial para actualizar el firmware.
 * UIFlow https://static-cdn.m5stack.com/resource/software/UIFlow-Desktop-IDE.zip aplicación oficial para desarrollo con bloques y traducción a python.
 
+##Contribuciones
