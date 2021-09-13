@@ -15,8 +15,9 @@ M5Core2 es la segunda generación de dispositivos M5Stack.
 * 8MB PSRAM
 * Reloj RTC
 * Conectividad por Wifi o bluethoot
-* Pantalla de 2 Pulgadas capacitativa (Táctil)
-* USB TYPE-C, para cargar la batería, alimentar el dispositivo, cargar código, comunicación serial.  
+* Pantalla a color de 2 Pulgadas capacitativa (Táctil)
+* USB TYPE-C, para cargar la batería, alimentar el dispositivo, cargar código, comunicación serial.
+* Puerto I2C  
 * Motor para Vibración.
 * Bateria de 390mAh.
 * La fuente de alimentación esta gestionada por el chip AXP192.
@@ -29,8 +30,20 @@ M5Core2 es la segunda generación de dispositivos M5Stack.
 * Botón de encendido y reseteo.
 * 3 botones capacitativos
 
-## Software
+### Software
 La placa de desarollo M5Stack Core 2 soporta varios lenguajes de programación entre los que se encuentran: Arduino, UIFlow(Blockly y MicroPython)
+
+#### Arduino
+* https://docs.m5stack.com/en/arduino/arduino_development
+* https://github.com/m5stack/M5Core2
+
+#### UIFlow
+*
+
+
+#### MicroPython (Puro)
+* https://github.com/m5stack/M5Stack_MicroPython
+
 
 
 
